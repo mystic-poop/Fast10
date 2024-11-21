@@ -1,4 +1,4 @@
-#Hi , Let me introduce you a super lightweight Fast10
+Hi , Let me introduce you a super lightweight Fast10
 
 
 ❓What it is

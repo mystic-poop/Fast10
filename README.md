@@ -25,7 +25,7 @@ Well you need
 1.5 gig ram (you cant do much with this )
 
 
-32 gig storage 
+18 gig storage (rememeber that after installition youu have 4 gb remaining )
 
 
 a potato card for video

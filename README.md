@@ -1,4 +1,4 @@
-Hi , Let me introduce you a super lightweight Fast10
+#Hi , Let me introduce you a super lightweight Fast10
 
 
 ❓What it is
@@ -17,10 +17,20 @@ We removed ads,so much junky apps supports (like vp9 ) , we removed telemetrys, 
 
 
 Well you need
+
+
 1 core 1 theard cpu (you cant do multitask)
+
+
 1.5 gig ram (you cant do much with this )
+
+
 32 gig storage 
+
+
 a potato card for video
+
+
 0.0 bytes per second for internet
 
 
